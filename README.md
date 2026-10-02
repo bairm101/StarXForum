@@ -1,5 +1,8 @@
 ﻿# Forum 论坛系统
 
+ starxforum安装教程
+ https://www.starxx.cn/index.php/archives/9/
+
 一个功能完整的社区论坛系统：**Spring Boot 3 后端 + Flutter 客户端**（Web / Android / Windows）。
 
 - 多板块发帖/回帖、Markdown、图片/视频/文件上传（大文件分片上传）、隐藏内容、投票、话题、收藏
